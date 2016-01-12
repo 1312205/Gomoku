@@ -68,6 +68,7 @@ namespace Gomoku
         public delegate object GetButtonDelegate(int row, int col);
         public bool isError = false;
         #endregion
+        // ví dụ như em thêm 1 comment vào đây sau đó lưu lại
         public MainWindow()
         {
             InitializeComponent();
