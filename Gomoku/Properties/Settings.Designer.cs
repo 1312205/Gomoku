@@ -31,5 +31,14 @@ namespace Gomoku.Properties {
                 return ((string)(this["IP_server"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("12")]
+        public int BOAR_SIZE {
+            get {
+                return ((int)(this["BOAR_SIZE"]));
+            }
+        }
     }
 }

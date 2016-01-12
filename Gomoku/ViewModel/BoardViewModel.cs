@@ -24,7 +24,7 @@ namespace Gomoku
     {
         
         #region Define
-        public int BOARD_SIZE = 12;
+        public int BOARD_SIZE = Properties.Settings.Default.BOAR_SIZE;
         public CellPlayer[,] BoardCells;
         public CellPlayer ActivePlayer;
         public bool isEndGame;

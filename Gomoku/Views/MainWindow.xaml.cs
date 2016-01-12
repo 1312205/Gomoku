@@ -152,15 +152,16 @@ namespace Gomoku
         #region Hàm vẽ Bàn cờ
         private void VeBanCo()
         {
-            for (int i = 1; i <= 12; i++)
-                for (int j = 1; j <= 12; j++)
+            int size = Properties.Settings.Default.BOAR_SIZE;
+            for (int i = 1; i <= size; i++)
+                for (int j = 1; j <= size; j++)
                 {
                     this.Dispatcher.Invoke(() =>
                     {
                         CaroButton Cell = new CaroButton();
                         Cell.X = i;
                         Cell.Y = j;
-                        Cell.Width = ugrid.Width / 12;
+                        Cell.Width = ugrid.Width / size;
                         Cell.Height = Cell.Width;
                         Cell.BorderBrush = Brushes.Black;
                         Cell.BorderThickness = new Thickness(0.01f);
