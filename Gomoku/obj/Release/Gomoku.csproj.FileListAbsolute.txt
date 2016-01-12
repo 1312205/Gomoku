@@ -1,0 +1,21 @@
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\Gomoku.exe.config
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\Gomoku.exe
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\Gomoku.pdb
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\EngineIoClientDotNet.dll
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\Newtonsoft.Json.dll
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\SocketIoClientDotNet.dll
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\WebSocket4Net.dll
+E:\Study\HK5\LT Window\Gomoku\Gomoku\bin\Release\Newtonsoft.Json.xml
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Views\MainWindow.baml
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Views\MainWindow.g.cs
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\App.g.cs
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku_MarkupCompile.cache
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.g.resources
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.Properties.Resources.resources
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.csproj.GenerateResource.Cache
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.exe
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.pdb
+E:\Study\HK5\LT Window\Gomoku\Gomoku\obj\Release\Gomoku.csprojResolveAssemblyReference.cache
+E:\Study\HK5\LT Window\Đồ án 02\Source\Gomoku\bin\Release\Gomoku.exe.config
+E:\Study\HK5\LT Window\Đồ án 02\Source\Gomoku\obj\Release\Gomoku.exe
+E:\Study\HK5\LT Window\Đồ án 02\Source\Gomoku\obj\Release\Gomoku.pdb
