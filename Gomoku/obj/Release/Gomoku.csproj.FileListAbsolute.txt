@@ -48,3 +48,6 @@ C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\obj\Release\Gomoku_MarkupComp
 C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\obj\Release\Gomoku.g.resources
 C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\obj\Release\Gomoku.Properties.Resources.resources
 C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\obj\Release\Gomoku.csproj.GenerateResource.Cache
+C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\bin\Release\EngineIoClientDotNet.dll
+C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\bin\Release\SocketIoClientDotNet.dll
+C:\Users\kutem\Desktop\DoAn02\Source\Gomoku\Gomoku\bin\Release\WebSocket4Net.dll
